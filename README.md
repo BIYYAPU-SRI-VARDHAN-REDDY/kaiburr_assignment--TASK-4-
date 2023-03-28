@@ -7,8 +7,8 @@ framework of your choice. You should be able to create, show and delete records 
 
 Create a new React project using 'create-react-app'.
 
-  npx create-react-app my-app
-  cd my-app
+    npx create-react-app my-app
+    cd my-app
  
 Install the necessary dependencies:
   npm install axios bootstrap react-bootstrap react-router-dom
