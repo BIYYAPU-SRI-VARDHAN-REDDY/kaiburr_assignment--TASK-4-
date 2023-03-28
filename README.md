@@ -11,4 +11,5 @@ Create a new React project using 'create-react-app'.
     cd my-app
  
 Install the necessary dependencies:
+
     npm install axios bootstrap react-bootstrap react-router-dom
